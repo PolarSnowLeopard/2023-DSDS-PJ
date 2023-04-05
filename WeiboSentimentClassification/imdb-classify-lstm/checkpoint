@@ -1,0 +1,2 @@
+model_checkpoint_path: "finalmodel_weibo"
+all_model_checkpoint_paths: "finalmodel_weibo"
