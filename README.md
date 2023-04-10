@@ -1,3 +1,21 @@
+- [选题背景及应用意义](#---------)
+- [项目开发目标](#------)
+- [项目进展情况](#------)
+- [总览](#--)
+- [各部分说明](#-----)
+  * [1. WeiboSentimentClassification](#1-weibosentimentclassification)
+    + [1.1 数据集：weibo_senti_100k](#11-----weibo-senti-100k)
+      - [字段说明：](#-----)
+    + [1.2 神经网络架构](#12-------)
+  * [2. DepressionAnalysis](#2-depressionanalysis)
+    + [2.1 数据集：Avec2019大赛数据集](#21-----avec2019-----)
+    + [2.2 神经网络架构](#22-------)
+  * [3. 微博爬虫](#3-----)
+    + [调用方式](#----)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<hr>
+
 # 选题背景及应用意义
 近年来，由于升学、就业、感情、价值取向等多方面原因，我国大学生出现心理异常的情况显著增加，大多数学生处于心理亚健康状态，有的甚至产生了心理障碍或精神疾病，更有甚者错误地选择了轻生，给个人、家人、学校和社会都造成了无法挽回的负面影响。
 
@@ -11,8 +29,8 @@
 # 项目进展情况
 - [x] 微博爬虫模块
 - [x] 情绪识别模块
-- [] 抑郁识别模块
-- [] 结果展示模块
+- [ ] 抑郁识别模块
+- [ ] 结果展示模块
 
 ![完成情况](./imags/architecture2.png)
 
